@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: 1905e9c86e33940a5825dea34a823d94
+  - enabled: 0
+    path: Assets/Samples/VIVE Wave XR Plugin - Essence/5.4.0-r.8/Essence/LipExpression/LipExp.unity
+    guid: 8bc6509411b354a4486928554f580552
+  - enabled: 0
+    path: Assets/Samples/VIVE Wave XR Plugin/5.4.0-r.8/XR/Controller/ControllerSample.unity
+    guid: edb91e86bd8b7dc4ca40ad6c3167de73
+  m_configObjects:
+    com.htc.upm.wave.xrsdk.xrsettings: {fileID: 11400000, guid: d8d40172b16017141a4fb183deb0e03e, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8be3e071a8210884d95e0c322a92d216, type: 2}

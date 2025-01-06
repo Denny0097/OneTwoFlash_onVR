@@ -1,0 +1,23 @@
+round 1:
+color :purple ,position :left
+ round 2:
+color :purple ,position :right
+ round 3:
+color :purple ,position :right
+ round 4:
+color :purple ,position :left
+ round 5:
+color :purple ,position :left
+ round 6:
+color :purple ,position :right
+ round 7:
+color :brown ,position :right
+ round 1:
+color :brown ,position :left
+ round 2:
+color :brown ,position :left
+ round 3:
+color :purple ,position :right
+ round 4:
+color :purple ,position :right
+ 
